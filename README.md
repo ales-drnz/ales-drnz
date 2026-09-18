@@ -7,4 +7,4 @@
 # Alessandro Di Ronza
 
 ### 🇮🇹 🇬🇧 Building open-source tools and apps
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,python,c,cpp,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,python,kotlin,swift,c,cpp)](https://skillicons.dev)
